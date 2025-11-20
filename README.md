@@ -107,7 +107,7 @@ Please cite the paper if you use the data or code from WizardCoder.
 luo2024wizardcoder,
 title={WizardCoder: Empowering Code Large Language Models with Evol-Instruct},
 author={Ziyang Luo and Can Xu and Pu Zhao and Qingfeng Sun and Xiubo Geng and Wenxiang Hu and Chongyang Tao and Jing Ma and Qingwei Lin and Daxin Jiang},
-booktitle={The Twelfth International Conference on Learning Representations},
+booktitle={The Twelve International Conference on Learning Representations},
 year={2024},
 url={https://openreview.net/forum?id=UnUwSIgK5W}
 }
@@ -246,3 +246,6 @@ The resources, including code, data, and model weights, associated with this pro
 
 [![Star History Chart](https://api.star-history.com/svg?repos=nlpxucan/WizardLM&type=Timeline)](https://star-history.com/#nlpxucan/WizardLM&Timeline)
 
+## Related Projects
+
+Related project: [stanford_alpaca](https://github.com/tatsu-lab/stanford_alpaca)
